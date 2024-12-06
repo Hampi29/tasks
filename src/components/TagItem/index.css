@@ -1,0 +1,18 @@
+.tag-item {
+  margin-right: 15px;
+  color: #ffffff;
+}
+.tag-btn {
+  border: #f3aa4e 2px solid;
+  background-color: transparent;
+  border-radius: 7px;
+  padding: 4px;
+  color: #ffffff;
+}
+.active-tag-btn {
+  background-color: #f3aa4e;
+  border: none;
+  color: #ffffff;
+  border-radius: 7px;
+  padding: 4px;
+}
